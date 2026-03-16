@@ -10,11 +10,11 @@
     ]
   },
   "dependencies": {
-    "duck-duck-scrape": "^2.2.7"
+    "duck-duck-scrape": "^2.2.7",
+    "@sinclair/typebox": "^0.34.33"
   },
   "devDependencies": {
     "openclaw": "*",
-    "@sinclair/typebox": "^0.34.33",
     "typescript": "^5.7.0"
   }
 }
