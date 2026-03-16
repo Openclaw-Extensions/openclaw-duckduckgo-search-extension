@@ -1,0 +1,8 @@
+{
+  "id": "duckduckgo-search",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
